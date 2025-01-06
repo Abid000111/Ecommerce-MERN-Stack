@@ -1,0 +1,68 @@
+[
+	{
+		"id": "offcourt_adjust_slider",
+		"name": "Offcourt Adjust Slider",
+		"price": 1450,
+		"colors": ["white", "olive", "black"],
+		"size": [39, 40, 41, 42, 43],
+		"origin": "Vietnam",
+		"description": "Post game, errands and more—adjust your comfort on the go. The adjustable, padded strap lets you perfect your fit, while the lightweight foam midsole brings first-class comfort to your feet. Benefits: Contoured footbed cradles your foot to help keep it in place. Dual-density foam provides lightweight cushioning. Hook-and-loop strap is lined with soft fabric for extra comfort. Logo label doubles as a pull tab to help open the strap. Outsole features a pivot circle pattern for durability and traction.",
+		"images": [
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/Screenshot%202024-02-26%20130339.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_004357_0001.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_004356_0000.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_004907_0002.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_004907_0000.png"
+		],
+		"rating": 3,
+		"reviews": 15,
+		"stock": 15,
+		"materials": "Upper Side: Rubber, Soft Soul",
+		"shipping": "We are dedicated to ensuring swift delivery of your ordered items through our efficient and reliable shipping process. Once your order is confirmed, you can expect your package to arrive at your doorstep within 4 (four) working days if you are located within Dhaka. If you reside outside Dhaka, you can anticipate your package arriving within 7 (seven) working days.",
+		"model_link": "http://bealphaa-offcourt-adjust-slider.com.bealphaa.com"
+	},
+	{
+		"id": "shark_slider",
+		"name": "Shark Slider",
+		"price": 1200,
+		"colors": ["white", "black", "#eadacb"],
+		"size": [39, 40, 41, 42, 43],
+		"origin": "China",
+		"description": "Get a fashionable slider with comfort. Fit with your feet very nicely. EVA build material gives more durability and is also easy to clean.",
+		"images": [
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/Screenshot%202024-02-26%20175331.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/3_20240218_014943_0002.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/2_20240218_012317_0001.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/1_20240218_013440_0000.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/3_20240218_012317_0002.png"
+		],
+		"rating": 3,
+		"reviews": 15,
+		"stock": 15,
+		"materials": "Inner EVA, Outside EVA",
+		"shipping": "We are dedicated to ensuring swift delivery of your ordered items through our efficient and reliable shipping process. Once your order is confirmed, you can expect your package to arrive at your doorstep within 4 (four) working days if you are located within Dhaka. If you reside outside Dhaka, you can anticipate your package arriving within 7 (seven) working days.",
+		"model_link": "http://bealphaa-shark-slider.com.bealphaa.com"
+	},
+	{
+		"id": "plain_comfortable",
+		"name": "Plain Comfortable",
+		"price": 1050,
+		"colors": ["white", "black"],
+		"size": [39, 40, 41, 42, 43],
+		"origin": "China",
+		"description": "If your first priority is only comfort then you can go for it. Very nice color and easy to clean. Walk in every road condition. EVA material makes slider more durable. These Solid Plain Sliders give you a nice look with more comfort.",
+		"images": [
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_011233_0000.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_011640_0000.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_011234_0002.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_011234_0001.png",
+			"https://raw.githubusercontent.com/Abid000111/images_beAlphaa/main/20240218_011640_0001.png"
+		],
+		"rating": 3,
+		"reviews": 15,
+		"stock": 15,
+		"materials": "EVA",
+		"shipping": "We are dedicated to ensuring swift delivery of your ordered items through our efficient and reliable shipping process. Once your order is confirmed, you can expect your package to arrive at your doorstep within 4 (four) working days if you are located within Dhaka. If you reside outside Dhaka, you can anticipate your package arriving within 7 (seven) working days.",
+		"model_link": "http://bealphaa-plain-comfortable.com.bealphaa.com"
+	}
+]
